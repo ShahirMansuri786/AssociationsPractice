@@ -1,0 +1,36 @@
+ => 
+[[32m#<PolyComment:0x0000564388cc2730[0m
+  id: [34m[1m1[0m,
+  content: [31m[1m"[0m[31mnice  video[0m[31m[1m"[0m,
+  comment_type: [31m[1m"[0m[31mPost[0m[31m[1m"[0m,
+  comment_id: [34m[1m1[0m,
+  created_at: Wed, 17 Jul 2024 12:10:24.281492000 UTC +00:00,
+  updated_at: Wed, 17 Jul 2024 12:10:24.281492000 UTC +00:00[32m>[0m,
+ [32m#<PolyComment:0x0000564388cc1f10[0m
+  id: [34m[1m2[0m,
+  content: [31m[1m"[0m[31mhappy birthday[0m[31m[1m"[0m,
+  comment_type: [31m[1m"[0m[31mEvent[0m[31m[1m"[0m,
+  comment_id: [34m[1m1[0m,
+  created_at: Wed, 17 Jul 2024 12:12:18.056079000 UTC +00:00,
+  updated_at: Wed, 17 Jul 2024 12:12:18.056079000 UTC +00:00[32m>[0m,
+ [32m#<PolyComment:0x0000564388cc1678[0m
+  id: [34m[1m3[0m,
+  content: [31m[1m"[0m[31mhello[0m[31m[1m"[0m,
+  comment_type: [31m[1m"[0m[31mEvent[0m[31m[1m"[0m,
+  comment_id: [34m[1m1[0m,
+  created_at: Wed, 17 Jul 2024 12:12:50.494058000 UTC +00:00,
+  updated_at: Wed, 17 Jul 2024 12:12:50.494058000 UTC +00:00[32m>[0m,
+ [32m#<PolyComment:0x0000564388cc1588[0m
+  id: [34m[1m4[0m,
+  content: [31m[1m"[0m[31mhappy diwali[0m[31m[1m"[0m,
+  comment_type: [31m[1m"[0m[31mEvent[0m[31m[1m"[0m,
+  comment_id: [34m[1m1[0m,
+  created_at: Wed, 17 Jul 2024 12:14:53.291055000 UTC +00:00,
+  updated_at: Wed, 17 Jul 2024 12:14:53.291055000 UTC +00:00[32m>[0m,
+ [32m#<PolyComment:0x0000564388cc14c0[0m
+  id: [34m[1m5[0m,
+  content: [31m[1m"[0m[31mhappy diwali bhaya[0m[31m[1m"[0m,
+  comment_type: [31m[1m"[0m[31mEvent[0m[31m[1m"[0m,
+  comment_id: [34m[1m2[0m,
+  created_at: Wed, 17 Jul 2024 12:19:59.912864000 UTC +00:00,
+  updated_at: Wed, 17 Jul 2024 12:19:59.912864000 UTC +00:00[32m>[0m] 
