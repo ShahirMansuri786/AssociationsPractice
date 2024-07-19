@@ -10,15 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.1].define(version: 2024_07_17_120146) do
-  create_table "accounts", force: :cascade do |t|
-    t.integer "supplier_id"
-    t.string "account_number"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
-    t.index ["supplier_id"], name: "index_accounts_on_supplier_id"
-  end
-
+ActiveRecord::Schema[7.1].define(version: 2024_07_19_112630) do
   create_table "appointments", force: :cascade do |t|
     t.integer "physician_id"
     t.integer "patient_id"
@@ -76,8 +68,7 @@ ActiveRecord::Schema[7.1].define(version: 2024_07_17_120146) do
     t.datetime "updated_at", null: false
   end
 
-  create_table "suppliers", force: :cascade do |t|
-    t.string "name"
+  create_table "tests", force: :cascade do |t|
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
